@@ -1,0 +1,12 @@
+l thisstring 0
+e stringabc 100
+e thisisavvvveeeeeerrrrrrrryyyyyyyyllllllllloooonnnnnnggggggstring 999
+x thisisabogusline 100
+l stringabc 0
+c stringabc 2112
+c this 123
+e this 1000
+c xyzzy 1234567
+l xyzzy 0
+e thisisabogusline 777
+

@@ -1,0 +1,25 @@
+l thissymbol 10
+e thissymbol 100
+l thissymbol 10
+l thissymbol 100
+c thissymbol 10001
+l thissymbol 0
+e thissymbol 15
+l thissymbol 0
+c newsymbol 2112
+l newsymbol 0
+e newsymbol 2112
+l newsymbol 0
+l thisisaverylongsymbolnametouseforthehaherallthoughitisstillok 0
+c thisisaverylongsymbolnametouseforthehaherallthoughitisstillok 1234
+l thisisaverylongsymbolnametouseforthehaherallthoughitisstillok 0
+l symbolwithadifferentname 0
+e symbolwithadifferentname 9999
+l symbolwithadifferentname 0
+e symbolwithadifferentname 1243
+l symbolwithadifferentname 0
+c symbolwithadifferentname 1111
+l symbolwithadifferentname 0
+e thissymbol 1000
+l thissymbol 34
+
